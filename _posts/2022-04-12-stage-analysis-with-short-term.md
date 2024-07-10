@@ -3,9 +3,6 @@ title: Stage Analysis with Short Term
 date: 2022-04-12 12:00:00 +0800
 categories: [Stage Analysis]
 tags: [indicator]
-pin: true
-math: true
-mermaid: true
 ---
 
 Read previous post: [Stage Analysis](https://equitycraze.com/posts/stage-analysis/)
