@@ -2,7 +2,7 @@
 title: Stage Analysis with Short Term
 date: 2022-04-12 12:00:00 +0800
 categories: [Stage Analysis]
-tags: [indicator]
+tags: [Indicator]
 ---
 
 Read previous post: [Stage Analysis](https://equitycraze.com/posts/stage-analysis/)
@@ -30,5 +30,5 @@ new TradingView.chart(tradingview_embed_options);
 </script>
 <!-- TradingView Chart END -->
 
-### [![Stage Analysis - Short Term Indicator](https://img.shields.io/badge/Indicator-link-blue)](https://www.tradingview.com/script/OICl7BAm-Stage-Analysis-Short-Term/)
+### [![Stage Analysis - Short Term Indicator](https://img.shields.io/badge/TradingView-Indicator-blue)](https://www.tradingview.com/script/OICl7BAm-Stage-Analysis-Short-Term/)
 

@@ -2,7 +2,7 @@
 title: Stage Analysis
 date: 2022-01-07 12:00:00 +0800
 categories: [Stage Analysis]
-tags: [indicator]
+tags: [Indicator]
 pin: true
 math: true
 mermaid: true
@@ -42,7 +42,6 @@ tradingview_embed_options.height = '475';
 tradingview_embed_options.chart = 'tzQaOzmV';
 new TradingView.chart(tradingview_embed_options);
 </script>
-<p><a href="https://in.tradingview.com/script/tzQaOzmV-Stage-Analysis/">Stage Analysis Indicator</a> by <a href="https://in.tradingview.com/u/EquityCraze/">EquityCraze</a></p>
 <!-- TradingView Chart END -->
 
-### [![Stage Analysis](https://img.shields.io/badge/Indicator-link-blue)](https://in.tradingview.com/script/tzQaOzmV-Stage-Analysis/)
+### [![Stage Analysis](https://img.shields.io/badge/TradingView-Indicator-blue)](https://in.tradingview.com/script/tzQaOzmV-Stage-Analysis/)
