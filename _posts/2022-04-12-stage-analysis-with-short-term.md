@@ -1,8 +1,8 @@
 ---
-title: Stage Analysis with Short Term
+title: Stage Analysis with Short Term Trend
 date: 2022-04-12 12:00:00 +0800
 categories: [Stage Analysis]
-tags: [Indicator]
+tags: [Indicator, MA]
 ---
 
 Read previous post: [Stage Analysis](https://equitycraze.com/posts/stage-analysis/)

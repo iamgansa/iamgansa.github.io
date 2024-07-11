@@ -3,9 +3,6 @@ title: Stage Analysis
 date: 2022-01-07 12:00:00 +0800
 categories: [Stage Analysis]
 tags: [Indicator]
-pin: true
-math: true
-mermaid: true
 ---
 
 This indicator helps in the identification of the stage cycle of a stock. It should only be analyzed on Weekly and Daily timeframes.
