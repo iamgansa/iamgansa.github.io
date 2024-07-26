@@ -5,15 +5,7 @@ categories: [Journals]
 tags: [Indicator, Journal, Mark Minervini]
 ---
 
-This indicator has past trades of [Mark Minervini](https://x.com/markminervini)
-
-### In Chart
-
-1. Linefill in the chart
-2. Table with date in which the Trade was taken by him
-
-
-### Tradingview Indicator
+## Tradingview Indicator
 
 <!-- TradingView Chart BEGIN -->
 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
@@ -25,6 +17,16 @@ tradingview_embed_options.chart = 'PZX1ULkC';
 new TradingView.chart(tradingview_embed_options);
 </script>
 <!-- TradingView Chart END -->
+_____
 
-### [![Mark Minervini Trades](https://img.shields.io/badge/TradingView-Indicator-black)](https://www.tradingview.com/script/PZX1ULkC-Mark-Minervini-past-trades/)
+> [![Azure](https://img.shields.io/badge/Mark_Minervini_Trades_Indicator-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.tradingview.com/script/PZX1ULkC-Mark-Minervini-past-trades/){:target="_blank" }
 
+
+
+## Description
+This indicator has past trades of [Mark Minervini](https://x.com/markminervini)
+
+1. Linefill in the chart
+2. Table with date in which the Trade was taken by him
+
+Credits to [Charlie](https://x.com/traderCharlieM) for providing the trades data

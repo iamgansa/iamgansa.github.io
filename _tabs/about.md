@@ -8,7 +8,7 @@ order: 4
 {: .prompt-tip } -->
 
 
-I am a professional software developer with a deep passion for the stock market. Both of these interests occupy much of my time. Apart from coding and trading, I enjoy playing cricket and writing Pine scripts. I am known for my laziness, which has driven me to automate most of my work. I am also a DIY enthusiast.
+I am a professional software developer with a deep passion for the stock market. Both of these interests occupy much of my time. Apart from coding and trading, I enjoy playing cricket and writing Pine scripts. I am known for my laziness, which has driven me to automate most of my work
 
 Here you will find my:
 1. Automations

@@ -5,6 +5,26 @@ categories: [Stage Analysis]
 tags: [Indicator]
 ---
 
+## Tradingview Indicator
+
+<!-- TradingView Chart BEGIN -->
+<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+<script type="text/javascript">
+var tradingview_embed_options = {};
+tradingview_embed_options.width = '790';
+tradingview_embed_options.height = '475';
+tradingview_embed_options.chart = 'tzQaOzmV';
+new TradingView.chart(tradingview_embed_options);
+</script>
+<!-- TradingView Chart END -->
+
+_____
+
+> [![Azure](https://img.shields.io/badge/Stage_Analysis-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://in.tradingview.com/script/tzQaOzmV-Stage-Analysis/){:target="_blank" }
+
+
+## Description
+
 This indicator helps in the identification of the stage cycle of a stock. It should only be analyzed on Weekly and Daily timeframes.
 
 ### Stages
@@ -22,23 +42,6 @@ As shown in the chart, each stock goes through its stage cycle. Below points con
 - **Stage 2 Start**: Another green label appears, indicating the start of Stage 2.
 - **Stage 2 Uptrend Confirmation**: Finally, a yellow label up appears, confirming the Stage 2 uptrend.
 
-### In Chart
-
-Plots 
+### Plots 
 
 * 50, 150 and 200 Simple Moving Averages in Daily and Weekly timeframe
-
-### Tradingview Indicator
-
-<!-- TradingView Chart BEGIN -->
-<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
-<script type="text/javascript">
-var tradingview_embed_options = {};
-tradingview_embed_options.width = '790';
-tradingview_embed_options.height = '475';
-tradingview_embed_options.chart = 'tzQaOzmV';
-new TradingView.chart(tradingview_embed_options);
-</script>
-<!-- TradingView Chart END -->
-
-### [![Stage Analysis](https://img.shields.io/badge/TradingView-Indicator-blue)](https://in.tradingview.com/script/tzQaOzmV-Stage-Analysis/)
