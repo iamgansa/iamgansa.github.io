@@ -1,8 +1,8 @@
 ---
 title: Stage 2 Bases
-date: 2024-10-18 12:00:00 +0800
+date: 2025-10-05 12:00:00 +0800
 categories: [Stage 2 Bases]
-tags: [mark minervini, stage analysis, base formation, breakout trading]
+tags: [base, stage2base, stage2]
 ---
 
 ## Tradingview Indicator
